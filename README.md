@@ -1,4 +1,3 @@
-
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 ###  DATE:17/08/2024 
@@ -204,9 +203,7 @@ void Error_Handler(void)
 #endif
 ```
 ## OUTPUT  :
- 
- 
- 
- 
+![image](https://github.com/user-attachments/assets/b109ed18-b401-466a-af9c-17d91ea5789a)
+
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
